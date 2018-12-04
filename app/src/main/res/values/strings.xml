@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="speed_is">Speed is: 1000 ms</string>
+
+    <string name="press_on_the_button_with_same_">Press on the button with same number as the text below</string>
+    <string name="text">Text</string>
+    <string name="button_01">Button 01</string>
+    <string name="button_02">Button 02</string>
+    <string name="button_03">Button 03</string>
+
+
+    <string name="app_name">Click The Number</string>
+    <string name="hello_world">Hello world!</string>
+
+	<string name="about">About</string>
+	<string name="version">2</string>
+	<string name="version_number">Version Number: </string>
+	<string name="support_us">
+		Support us by donation to the following bitcoin Address
+	</string>
+	<string name="bitcoin_address">1BNxn4TDeY48D5PyPQYmArX5uD25EZJpsa</string>
+	
+	
+</resources>
